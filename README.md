@@ -22,5 +22,8 @@ https://juveriad.github.io/Practicals/practical9.html
 
 https://juveriad.github.io/Practicals/practical10.html
 
+https://juveriad.github.io/Practicals/practical11.html
+
+https://juveriad.github.io/Practicals/practical12.html
 
 
