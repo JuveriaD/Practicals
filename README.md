@@ -16,4 +16,11 @@ https://juveriad.github.io/Practicals/practical6.html
 
 https://juveriad.github.io/Practicals/practical7.html
 
+https://juveriad.github.io/Practicals/practical8.html
+
+https://juveriad.github.io/Practicals/practical9.html
+
+https://juveriad.github.io/Practicals/practical10.html
+
+
 
