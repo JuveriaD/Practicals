@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>javaScript</title>
+    <style>
+        body {
+            font-size: 20px;
+            font-style: italic;
+            font-weight: 600;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <script type="text/javascript">
+        var subject = prompt("Enter any Subject");
+        document.write("<br><br>Entered String is : " + subject);
+        document.write("<br><br>Length of Entered String is : " + subject.length);
+        var doc = document.write("<br><br>Character at 4th place is : " + subject.charAt(4));
+        document.write("<br><br>First Occurrence of O is : " + subject.indexOf(doc));
+        document.write("<br><br>Last Occurrence of O is : " + subject.lastIndexOf(doc));
+        document.write("<br><br>Display the Characters from 3 to 7 place : " + subject.substr(3, 7));
+        document.write("<br><br>Display the Characters from 3 to 7 place : " + subject.substring(3, 7));
+        document.write("<br><br>Remove spaces from string : " + subject.trim());
+        document.write("<br><br>Uppercase conversion of string : " + subject.toUpperCase());
+        document.write("<br><br>Lowercase conversion of string : " + subject.toLowerCase());
+    </script>
+</body>
+
+</html>
